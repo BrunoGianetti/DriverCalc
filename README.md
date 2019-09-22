@@ -12,4 +12,4 @@ I receive calls in my whatsapp and ask my client about loading and unloading. Th
 
 ## See the screenshot
 
-<img width="1039" alt="rename screenshot" src="https://github.com/BrunoGianetti/DriverCalc/blob/master/Screenshot_20190920-122650.png">
+<img width="500" alt="rename screenshot" src="https://github.com/BrunoGianetti/DriverCalc/blob/master/Screenshot_20190920-122650.png">
